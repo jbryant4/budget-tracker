@@ -1,21 +1,21 @@
-const CACHE_NAME = 'my-site-cache-v1';
+const CACHE_NAME = 'money-v1';
 const DATA_CACHE_NAME = 'data-cache-v1';
 
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
     '/manifest.json',
-    '/assets/css/style.css',
-    '/assets/js/loadImages.js',
-    '/assets/js/idb.js',
-    '/assets/icons/icon-72x72.png',
-    '/assets/icons/icon-96x96.png',
-    '/assets/icons/icon-128x128.png',
-    '/assets/icons/icon-144x144.png',
-    '/assets/icons/icon-152x152.png',
-    '/assets/icons/icon-196x196.png',
-    '/assets/icons/icon-384x384.png',
-    '/assets/icons/icon-512x512.png',
+    '/css/styles.css',
+    '/js/index.js',
+    '/js/idb.js',
+    '/icons/icon-72x72.png',
+    '/icons/icon-96x96.png',
+    '/icons/icon-128x128.png',
+    '/icons/icon-144x144.png',
+    '/icons/icon-152x152.png',
+    '/icons/icon-192x192.png',
+    '/icons/icon-384x384.png',
+    '/icons/icon-512x512.png',
 ];
 
 // Install the service worker
