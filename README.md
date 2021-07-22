@@ -7,6 +7,19 @@ A simple PWA app that allows the user to track their budget with offline functio
 ## Technoligies 
 
 This site used: 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Bootstrap
 - Node, Express
 - NoSQL, MongoDB, MongoDB Atlas
+
+## Instalattion 
+
+- Clone the repo code onto local deveice.
+- Run `npm i` in the command line
+
+## Application 
+https://jbryant-budget-tracker.herokuapp.com/
+
+
+## Contibutions 
+Developer: Joseph Bryant
+
